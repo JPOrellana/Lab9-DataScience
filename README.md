@@ -12,3 +12,4 @@ https://github.com/JPOrellana/Lab9-DataScience.git
 ## Visualización
 ![alt text](assets/captura1.png)
 ![alt text](assets/captura2.png)
+![alt text](assets/Captura3.png)
